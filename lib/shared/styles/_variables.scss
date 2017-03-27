@@ -1,6 +1,6 @@
 // Colors
 // ---------------------------
-$primary-color: #0033a0;
+$primary-color: #00ff01;
 $secondary-color: #00ff01;
 $black: #00ff01;
 $green: #00ff01;
@@ -45,19 +45,19 @@ $section-spacing: 40px;
 // Side Bar
 // ---------------------------
 $side-bar-width: 260px;
-$side-bar-bg-color: #fafafa;
-$side-menu-item-color: #384248;
-$side-menu-even-bg-color: #f0f0f0;
+$side-bar-bg-color: #00ff01;
+$side-menu-item-color: #00ff01;
+$side-menu-even-bg-color: #00ff01;
 $side-menu-active-bg-color: #00ff01;
 $side-menu-item-hpadding: 20px;
 $side-menu-item-vpadding: 5px;
 
 // Sample Panel
 // ---------------------------
-$samples-panel-bg-color: $black;
+$samples-panel-bg-color: $green;
 $samples-panel-width: 40%;
-$sample-panel-headers-color: lighten($black, 50%);
-$sample-panel-color: lighten($black, 80%);
+$sample-panel-headers-color: lighten($green, 50%);
+$sample-panel-color: lighten($green, 80%);
 
 $tree-lines-color: rgba($primary-color, 0.5);
 
